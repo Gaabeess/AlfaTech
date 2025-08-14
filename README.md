@@ -17,7 +17,7 @@ Este repositório contém um site estático com:
 Licenciado sob **MIT License**.
 
 ##  Próximos Passos
-- [ ] \(Optional) Adicionar responsividade com CSS ou frameworks como Bootstrap.
-- [ ] \(Optional) Incluir README detalhado com a finalidade de cada página.
-- [ ] \(Optional) Mostrar pré-visualizações das páginas ou screenshots.
-- [ ] \(Optional) Melhorar acessibilidade, SEO, ou adicionar interatividade com JavaScript.
+- [ ] Adicionar responsividade com CSS ou frameworks como Bootstrap.
+- [ ] Incluir README detalhado com a finalidade de cada página.
+- [ ] Mostrar pré-visualizações das páginas ou screenshots.
+- [ ] Melhorar acessibilidade, SEO, ou adicionar interatividade com JavaScript.
